@@ -1,3 +1,3 @@
 # FDI-Analysis-Tableau
 
-Demo Link : https://prod-apnortheast-a.online.tableau.com/t/laxmansalesinsight/views/FDICaseStudy/Dashboard1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+Demo Link : https://public.tableau.com/app/profile/laxman.singh2933/viz/FDICaseStudy_16352666754620/Dashboard1
